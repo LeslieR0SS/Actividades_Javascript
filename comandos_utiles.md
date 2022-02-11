@@ -74,4 +74,9 @@ Los valores pueden ser de varios tipos, como números y cadenas.
 * this, throw, try, typeof
 * var, void, let
 * while, with
-  
+
+---
+
+## Para convertir Strings en Int
+
+> **parseInt()**
