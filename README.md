@@ -1,4 +1,4 @@
-# Comandos útiles y básicos para JavaScripts
+# Comandos útiles y básicos para JavaScript
 
 ## Para accedr y modificar el contenido HTML.
 
