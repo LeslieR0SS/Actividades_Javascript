@@ -81,6 +81,4 @@ Los valores pueden ser de varios tipos, como números y cadenas.
 ## Para convertir Strings en Int
 
 > **parseInt()**
-=======
-  
->>>>>>> a8b95659df415cf4a9635cbe97fc8b92b64b14f0:README.md
+
