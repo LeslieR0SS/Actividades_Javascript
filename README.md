@@ -1,4 +1,4 @@
-# Comandos útiles y básicos para JavaScripts
+# Comandos útiles y básicos para JavaScript
 
 ## Para accedr y modificar el contenido HTML.
 
@@ -74,9 +74,13 @@ Los valores pueden ser de varios tipos, como números y cadenas.
 * this, throw, try, typeof
 * var, void, let
 * while, with
+<<<<<<< HEAD:comandos_utiles.md
 
 ---
 
 ## Para convertir Strings en Int
 
 > **parseInt()**
+=======
+  
+>>>>>>> a8b95659df415cf4a9635cbe97fc8b92b64b14f0:README.md
